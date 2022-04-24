@@ -35,6 +35,10 @@ class UsersAPI extends RESTDataSource {
             role: role[0]
         })
     }
+
+    async editarUser(user) {
+
+    }
 }
 
 module.exports = UsersAPI;
