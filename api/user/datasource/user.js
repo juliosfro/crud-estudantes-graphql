@@ -37,7 +37,7 @@ class UsersAPI extends RESTDataSource {
     }
 
     async editarUser(user) {
-
+        return null;
     }
 }
 
