@@ -97,13 +97,6 @@
       "email": "juliosfro@gmail.com",
       "role": 2,
       "id": 14
-    },
-    {
-      "nome": "Julio Oliveira",
-      "ativo": true,
-      "email": "juliosfro@gmail.com",
-      "role": 2,
-      "id": 15
     }
   ],
   "roles": [
